@@ -13,7 +13,6 @@ import java.util.Scanner;
 
 // class BoardFoot.
 class BoardFoot {
-  // Continues to ask the user for valid inputs, and uses those inputs to calculate the length
   public static void main(String[] args) {
     Scanner scannerObj = new Scanner(System.in);
     double width = 0;
